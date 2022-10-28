@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+:root{
+    --bg : rgba(0,0,20,1);
+}
+body{
+    background-color: var(--bg);
+    color: white;
+}
+.heading{
+    margin:30px
+}
+.timeline{
+    display: flex;
+    justify-content: center;
+}
+.timeline .date{
+    text-align: right;
+    width: 300px;
+    margin-top: 60px;
+}
+.timeline .content{
+    text-align: left;
+    width: 300px;
+    margin-top: 60px;
+}
+.timeline .line{
+    background-color: white;
+    width: 3px;
+    margin-left: 60px;
+    margin-right: 60px;
+    overflow: visible;
+    display: flex;
+    justify-content: center;
+}
+.timeline .line .dot{
+    background-color: white;
+    border: 5px solid var(--bg);
+    height: 5px;
+    padding: 10px;
+    border-radius: 50%;
+    margin-top: 60px;
+}
