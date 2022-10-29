@@ -1,7 +1,7 @@
 name: 🐞 Bug Report
 description: report issue if found any bugs in the project
 title : "[BUG] :"
-labels: ["🐞 bug"]
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
