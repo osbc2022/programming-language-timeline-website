@@ -1,7 +1,7 @@
 name: 🔆 Feature Request
 description: Have a new idea/feature? Please suggest!
 title: '[FEAT] :'
-labels: ['feature , enhancement']
+labels: ['feature' , 'enhancement']
 body:
   - type: markdown
     attributes:
