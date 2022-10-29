@@ -2,6 +2,9 @@
 
 <h3 align="center">
 
+![image](https://user-images.githubusercontent.com/115569958/198834492-d5bd98cd-d817-494a-a44d-980849d744fa.png)
+
+
 __🧿 live preview__ [click here 👀](https://osbc2022.github.io/programming-language-timeline-website/) 
 
 </h3>
