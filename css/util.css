@@ -1,0 +1,9 @@
+.flex-left{
+    flex-direction: row-reverse;
+}
+.text-left{
+    text-align: left;
+}
+.text-right{
+    text-align: right;
+}

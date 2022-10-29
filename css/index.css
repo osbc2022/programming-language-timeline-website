@@ -1,3 +1,4 @@
+@import "./util.css";
 *{
     margin: 0;
     padding: 0;
@@ -18,12 +19,12 @@ body{
     justify-content: center;
 }
 .timeline .date{
-    text-align: right;
+    /* text-align: right; */
     width: 300px;
     margin-top: 60px;
 }
 .timeline .content{
-    text-align: left;
+    /* text-align: left; */
     width: 300px;
     margin-top: 60px;
 }
