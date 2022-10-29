@@ -1,7 +1,7 @@
 name: 📑 Documentation Errors
 description: Found errors in documentation? or want to add more value to it?
 title: '[DOCS] :'
-labels: ['📑 documentation']
+labels: ['documentation']
 body:
   - type: markdown
     attributes:
