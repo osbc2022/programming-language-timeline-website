@@ -5,31 +5,77 @@
     text-decoration: none;
 }
 :root{
-    --bg : rgba(0,0,20,1);
+    --bg : rgba(20,20,20,1);
 }
 body{
     background-color: var(--bg);
     color: white;
 }
 .heading{
-    margin:30px
+    margin:30px;
+    color: orange;
 }
 .timeline{
     display: flex;
     justify-content: center;
 }
 .timeline .date{
-    /* text-align: right; */
-    width: 300px;
-    margin-top: 60px;
+    width: 304px;
+    margin-top: 80px;
+}
+.timeline .date span{
+    position: relative;
+    background-color: rgba(0,0,225,0.2);
+    border:2px solid rgba(0,0,225,0.5);
+    padding: 10px;
+}
+.timeline .date .left::before{
+    position: absolute;
+    border: 10px solid transparent;
+    left: -25px;
+    content: " ";
+    border-right-color: rgba(0,0,225,0.5);
+}
+.timeline .date .right::before{
+    position: absolute;
+    border: 10px solid transparent;
+    right: -20px;
+    content: " ";
+    border-left-color: rgba(0,0,225,0.5);
 }
 .timeline .content{
-    /* text-align: left; */
     width: 300px;
-    margin-top: 60px;
+    position: relative;
+    margin-top: 70px;
+    background-color: rgba(0,0,225,0.2);
+    border: 2px solid rgba(0,0,225,0.5);
+}
+.timeline .content .left::before{
+    position: absolute;
+    border: 10px solid transparent;
+    left: -25px;
+    content: " ";
+    border-right-color: rgba(0,0,225,0.5);
+}
+.timeline .content .right::before{
+    position: absolute;
+    border: 10px solid transparent;
+    right: -25px;
+    content: " ";
+    border-left-color: rgba(0,0,225,0.5);
+}
+.timeline .content h3{
+    margin: 10px;
+    margin-bottom: 10px;
+}
+.timeline .content p{
+    margin: 10px;
+    margin-top: 0;
+    color: rgba(200,200,200,1);
+    font-size: 14px;
 }
 .timeline .line{
-    background-color: white;
+    background-color: blue;
     width: 3px;
     margin-left: 60px;
     margin-right: 60px;
@@ -38,10 +84,11 @@ body{
     justify-content: center;
 }
 .timeline .line .dot{
-    background-color: white;
+    background-color: blue;
     border: 5px solid var(--bg);
     height: 5px;
     padding: 10px;
     border-radius: 50%;
-    margin-top: 60px;
+    margin-top: 80px;
+    color: blue;
 }
