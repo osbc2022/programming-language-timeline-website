@@ -7,21 +7,21 @@
 
 | Topics               | links to each section |
 |----------------------|-----------------------|
-|Create a issue        |[link](https://github.com/osbc2022/watch-product-landing-page/edit/main/.github/CONTRIBUTING.md#-create-a-issue--ask-to-get-assigned-to-existing-issues--)       |
-|Fork the repo         |[link](https://github.com/osbc2022/watch-product-landing-page/blob/main/.github/CONTRIBUTING.md#1-fork-the-project-)       |
-|Clone the repo        |[link](https://github.com/osbc2022/watch-product-landing-page/blob/main/.github/CONTRIBUTING.md#2-clone-the-fork-)       |
-|Add remote links      |[link](https://github.com/osbc2022/watch-product-landing-page/blob/main/.github/CONTRIBUTING.md#3-add-remote-links-)       |
-|Create a branch       |[link](https://github.com/osbc2022/watch-product-landing-page/blob/main/.github/CONTRIBUTING.md#4-create-a-branch)       |
-|Make changes          |[link](https://github.com/osbc2022/watch-product-landing-page/blob/main/.github/CONTRIBUTING.md#5-make-required-changes-smile)       |
-|Stage, commit & push  |[link](https://github.com/osbc2022/watch-product-landing-page/blob/main/.github/CONTRIBUTING.md#6-stage-commit--push-)       |
-|Make a PR :smile:     |[link](https://github.com/osbc2022/watch-product-landing-page/blob/main/.github/CONTRIBUTING.md#7-make-a-pr-pull-request)       |
+|Create a issue        |[link](https://github.com/osbc2022/progrmming-language-timeline-website/edit/main/.github/CONTRIBUTING.md#-create-a-issue--ask-to-get-assigned-to-existing-issues--)       |
+|Fork the repo         |[link](https://github.com/osbc2022/progrmming-language-timeline-website/blob/main/.github/CONTRIBUTING.md#1-fork-the-project-)       |
+|Clone the repo        |[link](https://github.com/osbc2022/progrmming-language-timeline-website/blob/main/.github/CONTRIBUTING.md#2-clone-the-fork-)       |
+|Add remote links      |[link](https://github.com/osbc2022/progrmming-language-timeline-website/blob/main/.github/CONTRIBUTING.md#3-add-remote-links-)       |
+|Create a branch       |[link](https://github.com/osbc2022/progrmming-language-timeline-website/blob/main/.github/CONTRIBUTING.md#4-create-a-branch)       |
+|Make changes          |[link](https://github.com/osbc2022/progrmming-language-timeline-website/blob/main/.github/CONTRIBUTING.md#5-make-required-changes-smile)       |
+|Stage, commit & push  |[link](https://github.com/osbc2022/progrmming-language-timeline-website/blob/main/.github/CONTRIBUTING.md#6-stage-commit--push-)       |
+|Make a PR :smile:     |[link](https://github.com/osbc2022/progrmming-language-timeline-website/blob/main/.github/CONTRIBUTING.md#7-make-a-pr-pull-request)       |
 
 </p>
 
 </details>
 
 ## 👣 Create a issue / ask to get assigned to existing issues :-
-- the repository in which you want to contribute, in this case `osbc2022/watch-product-landing-page`, we will call this the __*"original repo"*__
+- the repository in which you want to contribute, in this case `osbc2022/programming-language-timeline-website`, we will call this the __*"original repo"*__
 - In the original repo look at the top bar of the code folders and go to `issues`
 ![image](https://user-images.githubusercontent.com/115569958/195557470-3a357601-bbc2-4122-86a2-15c681cb1725.png)
   - check if your issue is already present by searching or simply scrolling down through all the issue :sweat_smile:, now there could be 2 senarios:-
@@ -38,7 +38,7 @@
 
 - Check on the upper right corner of the original repo and `fork` the project by clicking on it.
 ![image](https://user-images.githubusercontent.com/115569958/195557924-70f4d366-9587-49c2-8311-d7adb36fb824.png)
-- This will create a copy of the project in your repositories section. example `your-github-user-name/watch-product-landing-page` we will call this a __*"forked repo"*__
+- This will create a copy of the project in your repositories section. example `your-github-user-name/programming-language-timeline-website` we will call this a __*"forked repo"*__
 
 <br/>
 
@@ -49,13 +49,13 @@
  > _NOTE :- :exclamation: don't include this :point_right: " $ " , while coping the command_
 
 ```Shell
-$ git clone https://github.com/osbc2022/watch-product-landing-page
+$ git clone https://github.com/osbc2022/progrmming-language-timeline-website
 ``` 
 Now you have the project on your local machine.
 
 - now go to that directory 
 ```Shell 
-$ cd ./watch-product-landing-page
+$ cd ./progrmming-language-timeline-website
 ```
 
 > _Tip :- :heavy_check_mark: write `cd watch-` and press `Tab` key for autocompletion in the terminal._
@@ -76,7 +76,7 @@ $ git add remote origin "paste-your-forked-repo-url-here"
 - __upstream__ :- the url of the original repo
 
 ```Shell
-$ git add remote upstream https://github.com/osbc2022/watch-product-landing-page
+$ git add remote upstream https://github.com/osbc2022/progrmming-language-timeline-website
 ```
 
 <br/>

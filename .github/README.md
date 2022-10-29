@@ -6,7 +6,7 @@ __🧿 live preview__ [click here 👀](https://osbc2022.github.io/programming-l
 
 </h3>
 
-<h2 align=center> My TODO :- open source website that gives information about programming language and when were they created</h2>
+<h2 align=center> Programming Language Timeline :- An open source website that gives information about programming language and when were they created</h2>
 
 we aim to make more people indulge into open source and we are doing this by allowing beginners to start with  easy level projects because most often projects are not really for beginner. With the help of this beginners can learn the gihub workflow and start open source journey
 
