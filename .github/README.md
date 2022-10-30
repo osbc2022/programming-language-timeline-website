@@ -41,7 +41,7 @@ check our "<b>[Contribution Guidelines](./CONTRIBUTING.md)</b>" 👀 and follow 
 ## Contributors
 
 <a  href="https://github.com/osbc2022/programming-language-timeline-website/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=osbc2022/to-do-list" />
+  <img src="https://contrib.rocks/image?repo=osbc2022/programming-language-timeline-website" />
 </a>
 
 ---
