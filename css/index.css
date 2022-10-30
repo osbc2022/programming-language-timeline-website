@@ -43,6 +43,7 @@ body{
     content: " ";
     border-left-color: rgba(0,0,225,0.5);
 }
+
 .timeline .content{
     width: 300px;
     position: relative;
@@ -91,4 +92,8 @@ body{
     border-radius: 50%;
     margin-top: 80px;
     color: blue;
+}
+
+.left, .right{
+    text-transform: uppercase;
 }
