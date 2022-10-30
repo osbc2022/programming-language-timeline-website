@@ -11,7 +11,7 @@ function toHTML(data){
                         <div class="dot">.</div>
                     </span>
                     <span class="content text-right">
-                        <h3 class="right"> ${val.heading} </h3>
+                        <h3 class="right "> ${val.heading} </h3>
                         <p>${val.description}</p>
                     </span>
                 </div>
